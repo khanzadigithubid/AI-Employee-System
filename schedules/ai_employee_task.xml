@@ -49,9 +49,9 @@
   </Settings>
   <Actions Context="Author">
     <Exec>
-      <Command>"D:\Husnain\Agentic AI\300\Hackathons\0\.venv\Scripts\python.exe"</Command>
-      <Arguments>"D:\Husnain\Agentic AI\300\Hackathons\0\orchestrator.py"</Arguments>
-      <WorkingDirectory>"D:\Husnain\Agentic AI\300\Hackathons\0"</WorkingDirectory>
+      <Command>"D:\Khanzadi\Agentic AI\300\Hackathons\0\.venv\Scripts\python.exe"</Command>
+      <Arguments>"D:\Khanzadi\Agentic AI\300\Hackathons\0\orchestrator.py"</Arguments>
+      <WorkingDirectory>"D:\Khanzadi\Agentic AI\300\Hackathons\0"</WorkingDirectory>
     </Exec>
   </Actions>
 </Task>
