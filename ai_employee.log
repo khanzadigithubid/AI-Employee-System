@@ -366,3 +366,102 @@ Get credentials from: https://console.cloud.google.com/apis/credentials
 2026-01-18 15:16:44,523 - AI_Employee - INFO - ✓ Failure Manager initialized
 2026-01-18 15:16:44,538 - EmailSender - WARNING - Credentials expired. Please run Gmail watcher to re-authenticate.
 2026-01-18 15:16:44,538 - EmailSender - INFO - Or, authenticate now by running: python -c "from Watchers.gmail_watcher import GmailWatcher; GmailWatcher()"
+2026-01-18 21:41:55,494 - FailureManager - INFO - Failure Manager initialized
+2026-01-18 21:41:55,494 - AI_Employee - INFO - ✓ Failure Manager initialized
+2026-01-18 21:41:55,509 - AI_Employee - INFO - ✓ Database MCP initialized (C:\Users\mypc\Documents\Ai Personal Employee\AI-Employee-System\AI_Employee_Vault\ai_employee.db)
+2026-01-18 21:41:55,541 - EmailSender - WARNING - Credentials expired. Please run Gmail watcher to re-authenticate.
+2026-01-18 21:41:55,541 - EmailSender - INFO - Or, authenticate now by running: python -c "from Watchers.gmail_watcher import GmailWatcher; GmailWatcher()"
+2026-01-19 02:50:18,366 - FailureManager - INFO - Failure Manager initialized
+2026-01-19 02:50:18,366 - AI_Employee - INFO - ✓ Failure Manager initialized
+2026-01-19 02:50:18,387 - AI_Employee - INFO - ✓ Database MCP initialized (C:\Users\mypc\Documents\Ai Personal Employee\AI-Employee-System\AI_Employee_Vault\ai_employee.db)
+2026-01-19 02:50:18,410 - EmailSender - WARNING - Credentials expired. Please run Gmail watcher to re-authenticate.
+2026-01-19 02:50:18,410 - EmailSender - INFO - Or, authenticate now by running: python -c "from Watchers.gmail_watcher import GmailWatcher; GmailWatcher()"
+2026-01-19 02:53:48,639 - FailureManager - INFO - Failure Manager initialized
+2026-01-19 02:53:48,639 - AI_Employee - INFO - ✓ Failure Manager initialized
+2026-01-19 02:53:48,639 - AI_Employee - INFO - ✓ Database MCP initialized (C:\Users\mypc\Documents\Ai Personal Employee\AI-Employee-System\AI_Employee_Vault\ai_employee.db)
+2026-01-19 02:53:48,654 - LinkedInScheduler - INFO - LinkedIn Scheduler initialized
+2026-01-19 02:53:48,654 - LinkedInScheduler - INFO - Schedule: Mondays at 09:00
+2026-01-19 02:53:48,654 - AI_Employee - INFO - ✓ LinkedIn scheduler initialized (posts on Mondays 9AM)
+2026-01-19 02:53:48,654 - AI_Employee - INFO - 
+2026-01-19 02:53:48,654 - AI_Employee - INFO - ╔════════════════════════════════════════════════════════════╗
+2026-01-19 02:53:48,654 - AI_Employee - INFO - ║           ✨ AI Employee System Started                     ║
+2026-01-19 02:53:48,654 - AI_Employee - INFO - ╚════════════════════════════════════════════════════════════╝
+2026-01-19 02:53:48,654 - AI_Employee - INFO - 
+2026-01-19 02:53:48,654 - AI_Employee - INFO -   📁 Vault: C:\Users\mypc\Documents\Ai Personal Employee\AI-Employee-System\AI_Employee_Vault
+2026-01-19 02:53:48,654 - AI_Employee - INFO -   👀 Watchers: None
+2026-01-19 02:53:48,654 - AI_Employee - INFO -   ⏰ Schedulers: LinkedInScheduler
+2026-01-19 02:53:48,654 - AI_Employee - INFO -   🔧 MCPs: Database
+2026-01-19 02:53:48,654 - AI_Employee - INFO - 
+2026-01-19 02:53:48,654 - AI_Employee - INFO - ============================================================
+2026-01-19 02:53:48,654 - AI_Employee - INFO - Starting AI Employee System (Single Pass)
+2026-01-19 02:53:48,654 - AI_Employee - INFO - ============================================================
+2026-01-19 02:53:48,654 - AI_Employee - INFO - ============================================================
+2026-01-19 02:53:48,654 - AI_Employee - INFO - Single pass completed (0 items processed)
+2026-01-19 02:54:07,886 - FailureManager - INFO - Failure Manager initialized
+2026-01-19 02:54:07,886 - AI_Employee - INFO - ✓ Failure Manager initialized
+2026-01-19 02:54:07,886 - AI_Employee - INFO - ✓ Database MCP initialized (C:\Users\mypc\Documents\Ai Personal Employee\AI-Employee-System\AI_Employee_Vault\ai_employee.db)
+2026-01-19 02:54:07,886 - LinkedInScheduler - INFO - LinkedIn Scheduler initialized
+2026-01-19 02:54:07,886 - LinkedInScheduler - INFO - Schedule: Mondays at 09:00
+2026-01-19 02:54:07,886 - AI_Employee - INFO - ✓ LinkedIn scheduler initialized (posts on Mondays 9AM)
+2026-01-19 02:54:07,886 - AI_Employee - INFO - 
+2026-01-19 02:54:07,886 - AI_Employee - INFO - ╔════════════════════════════════════════════════════════════╗
+2026-01-19 02:54:07,886 - AI_Employee - INFO - ║           ✨ AI Employee System Started                     ║
+2026-01-19 02:54:07,886 - AI_Employee - INFO - ╚════════════════════════════════════════════════════════════╝
+2026-01-19 02:54:07,886 - AI_Employee - INFO - 
+2026-01-19 02:54:07,886 - AI_Employee - INFO -   📁 Vault: C:\Users\mypc\Documents\Ai Personal Employee\AI-Employee-System\AI_Employee_Vault
+2026-01-19 02:54:07,886 - AI_Employee - INFO -   👀 Watchers: None
+2026-01-19 02:54:07,886 - AI_Employee - INFO -   ⏰ Schedulers: LinkedInScheduler
+2026-01-19 02:54:07,886 - AI_Employee - INFO -   🔧 MCPs: Database
+2026-01-19 02:54:07,886 - AI_Employee - INFO - 
+2026-01-19 02:54:07,886 - AI_Employee - INFO - ============================================================
+2026-01-19 02:54:07,886 - AI_Employee - INFO - Starting AI Employee System (Single Pass)
+2026-01-19 02:54:07,886 - AI_Employee - INFO - ============================================================
+2026-01-19 02:54:07,886 - AI_Employee - INFO - Running email planner...
+2026-01-19 02:54:07,980 - EmailPlanner - INFO - Loaded 0 processed IDs from cache
+2026-01-19 02:54:07,980 - EmailSender - WARNING - Credentials expired. Please run Gmail watcher to re-authenticate.
+2026-01-19 02:54:07,980 - EmailSender - INFO - Or, authenticate now by running: python -c "from Watchers.gmail_watcher import GmailWatcher; GmailWatcher()"
+2026-01-19 02:54:07,980 - EmailPlanner - INFO - EmailPlanner initialized (AI: True)
+2026-01-19 02:54:07,995 - EmailPlanner - INFO - Found 1 emails to process
+2026-01-19 02:54:08,011 - EmailPlanner - ERROR - Error processing EMAIL_test_contract.md: 'KeywordAnalysis' object has no attribute 'conversation_context'
+2026-01-19 02:54:08,027 - AI_Employee - INFO - ✓ Created 1 email plans
+2026-01-19 02:54:08,027 - AI_Employee - INFO - ============================================================
+2026-01-19 02:54:08,027 - AI_Employee - INFO - Single pass completed (0 items processed)
+2026-01-19 02:55:05,590 - FailureManager - INFO - Failure Manager initialized
+2026-01-19 02:55:05,590 - AI_Employee - INFO - ✓ Failure Manager initialized
+2026-01-19 02:55:05,590 - AI_Employee - INFO - ✓ Database MCP initialized (C:\Users\mypc\Documents\Ai Personal Employee\AI-Employee-System\AI_Employee_Vault\ai_employee.db)
+2026-01-19 02:55:05,590 - LinkedInScheduler - INFO - LinkedIn Scheduler initialized
+2026-01-19 02:55:05,590 - LinkedInScheduler - INFO - Schedule: Mondays at 09:00
+2026-01-19 02:55:05,590 - AI_Employee - INFO - ✓ LinkedIn scheduler initialized (posts on Mondays 9AM)
+2026-01-19 02:55:05,590 - AI_Employee - INFO - 
+2026-01-19 02:55:05,590 - AI_Employee - INFO - ╔════════════════════════════════════════════════════════════╗
+2026-01-19 02:55:05,606 - AI_Employee - INFO - ║           ✨ AI Employee System Started                     ║
+2026-01-19 02:55:05,606 - AI_Employee - INFO - ╚════════════════════════════════════════════════════════════╝
+2026-01-19 02:55:05,606 - AI_Employee - INFO - 
+2026-01-19 02:55:05,606 - AI_Employee - INFO -   📁 Vault: C:\Users\mypc\Documents\Ai Personal Employee\AI-Employee-System\AI_Employee_Vault
+2026-01-19 02:55:05,606 - AI_Employee - INFO -   👀 Watchers: None
+2026-01-19 02:55:05,606 - AI_Employee - INFO -   ⏰ Schedulers: LinkedInScheduler
+2026-01-19 02:55:05,606 - AI_Employee - INFO -   🔧 MCPs: Database
+2026-01-19 02:55:05,606 - AI_Employee - INFO - 
+2026-01-19 02:55:05,606 - AI_Employee - INFO - ============================================================
+2026-01-19 02:55:05,606 - AI_Employee - INFO - Starting AI Employee System (Continuous Mode)
+2026-01-19 02:55:05,606 - AI_Employee - INFO - ============================================================
+2026-01-19 02:55:05,606 - AI_Employee - INFO - Press Ctrl+C to stop
+2026-01-19 02:55:05,606 - FailureManager - INFO - Health monitoring started (interval: 30s)
+2026-01-19 02:55:05,606 - LinkedInScheduler - INFO - Scheduler loop started
+2026-01-19 02:55:05,606 - LinkedInScheduler - INFO - LinkedIn scheduler started (posts every Mondays at 09:00)
+2026-01-19 02:55:05,606 - AI_Employee - INFO - ▶ Started LinkedInScheduler
+2026-01-19 02:55:05,606 - AI_Employee - INFO - ▶ Started Email Planner thread (runs every 30 minutes)
+2026-01-19 02:55:05,606 - AI_Employee - INFO - 
+2026-01-19 02:55:05,606 - AI_Employee - INFO - System Status:
+2026-01-19 02:55:05,606 - AI_Employee - INFO -   Watchers: 0 active
+2026-01-19 02:55:05,606 - AI_Employee - INFO -   Schedulers: 1 active
+2026-01-19 02:55:05,606 - AI_Employee - INFO -   Failure Manager: Active
+2026-01-19 02:55:05,606 - AI_Employee - INFO - 
+2026-01-19 02:55:05,606 - EmailPlanner - INFO - Loaded 0 processed IDs from cache
+2026-01-19 02:55:05,622 - EmailSender - WARNING - Credentials expired. Please run Gmail watcher to re-authenticate.
+2026-01-19 02:55:05,622 - EmailSender - INFO - Or, authenticate now by running: python -c "from Watchers.gmail_watcher import GmailWatcher; GmailWatcher()"
+2026-01-19 02:55:05,622 - EmailPlanner - INFO - EmailPlanner initialized (AI: True)
+2026-01-19 02:55:05,622 - AI_Employee - INFO - Running scheduled email planner...
+2026-01-19 02:55:05,622 - EmailPlanner - INFO - Found 1 emails to process
+2026-01-19 02:55:05,622 - EmailPlanner - ERROR - Error processing EMAIL_test_contract.md: 'KeywordAnalysis' object has no attribute 'conversation_context'
+2026-01-19 02:55:05,622 - AI_Employee - INFO - ✓ Created 1 email plans
