@@ -1,0 +1,368 @@
+2026-01-18 04:09:57,135 - FailureManager - INFO - Failure Manager initialized
+2026-01-18 04:09:57,136 - AI_Employee - INFO - ✓ Failure Manager initialized
+2026-01-18 04:09:57,155 - AI_Employee - INFO - ✓ Database MCP initialized (C:\Users\mypc\Documents\Ai Personal Employee\hackathon_0\AI_Employee_Vault\ai_employee.db)
+2026-01-18 04:09:57,164 - LinkedInScheduler - INFO - LinkedIn Scheduler initialized
+2026-01-18 04:09:57,164 - LinkedInScheduler - INFO - Schedule: Mondays at 09:00
+2026-01-18 04:09:57,165 - AI_Employee - INFO - ✓ LinkedIn scheduler initialized (posts on Mondays 9AM)
+2026-01-18 04:09:57,165 - AI_Employee - INFO - 
+2026-01-18 04:09:57,166 - AI_Employee - INFO - ╔════════════════════════════════════════════════════════════╗
+2026-01-18 04:09:57,166 - AI_Employee - INFO - ║           ✨ AI Employee System Started                     ║
+2026-01-18 04:09:57,167 - AI_Employee - INFO - ╚════════════════════════════════════════════════════════════╝
+2026-01-18 04:09:57,167 - AI_Employee - INFO - 
+2026-01-18 04:09:57,167 - AI_Employee - INFO -   📁 Vault: C:\Users\mypc\Documents\Ai Personal Employee\hackathon_0\AI_Employee_Vault
+2026-01-18 04:09:57,168 - AI_Employee - INFO -   👀 Watchers: None
+2026-01-18 04:09:57,168 - AI_Employee - INFO -   ⏰ Schedulers: LinkedInScheduler
+2026-01-18 04:09:57,168 - AI_Employee - INFO -   🔧 MCPs: Database
+2026-01-18 04:09:57,168 - AI_Employee - INFO - 
+2026-01-18 04:09:57,169 - AI_Employee - INFO - ============================================================
+2026-01-18 04:09:57,169 - AI_Employee - INFO - Starting AI Employee System (Single Pass)
+2026-01-18 04:09:57,169 - AI_Employee - INFO - ============================================================
+2026-01-18 04:09:57,169 - AI_Employee - INFO - ============================================================
+2026-01-18 04:09:57,170 - AI_Employee - INFO - Single pass completed (0 items processed)
+2026-01-18 04:10:18,475 - FailureManager - INFO - Failure Manager initialized
+2026-01-18 04:10:18,475 - AI_Employee - INFO - ✓ Failure Manager initialized
+2026-01-18 04:10:18,482 - LinkedInScheduler - INFO - LinkedIn Scheduler initialized
+2026-01-18 04:10:18,482 - LinkedInScheduler - INFO - Schedule: Mondays at 09:00
+2026-01-18 04:10:18,484 - AI_Employee - INFO - ✓ LinkedIn scheduler initialized (posts on Mondays 9AM)
+2026-01-18 04:10:18,485 - AI_Employee - INFO - 
+2026-01-18 04:10:18,485 - AI_Employee - INFO - ╔════════════════════════════════════════════════════════════╗
+2026-01-18 04:10:18,485 - AI_Employee - INFO - ║           ✨ AI Employee System Started                     ║
+2026-01-18 04:10:18,485 - AI_Employee - INFO - ╚════════════════════════════════════════════════════════════╝
+2026-01-18 04:10:18,486 - AI_Employee - INFO - 
+2026-01-18 04:10:18,486 - AI_Employee - INFO -   📁 Vault: C:\Users\mypc\Documents\Ai Personal Employee\hackathon_0\AI_Employee_Vault
+2026-01-18 04:10:18,487 - AI_Employee - INFO -   👀 Watchers: None
+2026-01-18 04:10:18,487 - AI_Employee - INFO -   ⏰ Schedulers: LinkedInScheduler
+2026-01-18 04:10:18,487 - AI_Employee - INFO -   🔧 MCPs: None
+2026-01-18 04:10:18,488 - AI_Employee - INFO - 
+2026-01-18 04:10:18,488 - AI_Employee - INFO - ============================================================
+2026-01-18 04:10:18,488 - AI_Employee - INFO - Starting AI Employee System (Single Pass)
+2026-01-18 04:10:18,489 - AI_Employee - INFO - ============================================================
+2026-01-18 04:10:18,489 - AI_Employee - INFO - ============================================================
+2026-01-18 04:10:18,489 - AI_Employee - INFO - Single pass completed (0 items processed)
+2026-01-18 04:11:31,047 - FailureManager - INFO - Failure Manager initialized
+2026-01-18 04:11:31,052 - AI_Employee - INFO - ✓ Failure Manager initialized
+2026-01-18 04:11:31,057 - LinkedInScheduler - INFO - LinkedIn Scheduler initialized
+2026-01-18 04:11:31,057 - LinkedInScheduler - INFO - Schedule: Mondays at 09:00
+2026-01-18 04:11:31,057 - AI_Employee - INFO - ✓ LinkedIn scheduler initialized (posts on Mondays 9AM)
+2026-01-18 04:11:31,057 - MeetingScheduler - WARNING - Calendar MCP not available: No module named 'skills.mcp_calendar'
+2026-01-18 04:11:31,057 - AI_Employee - INFO - ✓ Meeting scheduler initialized (mode: suggest)
+2026-01-18 04:11:31,063 - AI_Employee - INFO - 
+2026-01-18 04:11:31,063 - AI_Employee - INFO - ╔════════════════════════════════════════════════════════════╗
+2026-01-18 04:11:31,063 - AI_Employee - INFO - ║           ✨ AI Employee System Started                     ║
+2026-01-18 04:11:31,063 - AI_Employee - INFO - ╚════════════════════════════════════════════════════════════╝
+2026-01-18 04:11:31,063 - AI_Employee - INFO - 
+2026-01-18 04:11:31,065 - AI_Employee - INFO -   📁 Vault: C:\Users\mypc\Documents\Ai Personal Employee\hackathon_0\AI_Employee_Vault
+2026-01-18 04:11:31,065 - AI_Employee - INFO -   👀 Watchers: None
+2026-01-18 04:11:31,065 - AI_Employee - INFO -   ⏰ Schedulers: LinkedInScheduler
+2026-01-18 04:11:31,065 - AI_Employee - INFO -   🔧 MCPs: Meeting Scheduler
+2026-01-18 04:11:31,065 - AI_Employee - INFO - 
+2026-01-18 04:11:31,068 - AI_Employee - INFO - ============================================================
+2026-01-18 04:11:31,068 - AI_Employee - INFO - Starting AI Employee System (Continuous Mode)
+2026-01-18 04:11:31,068 - AI_Employee - INFO - ============================================================
+2026-01-18 04:11:31,068 - AI_Employee - INFO - Press Ctrl+C to stop
+2026-01-18 04:11:31,073 - FailureManager - INFO - Health monitoring started (interval: 30s)
+2026-01-18 04:11:31,073 - LinkedInScheduler - INFO - Scheduler loop started
+2026-01-18 04:11:31,073 - LinkedInScheduler - INFO - LinkedIn scheduler started (posts every Mondays at 09:00)
+2026-01-18 04:11:31,075 - AI_Employee - INFO - ▶ Started LinkedInScheduler
+2026-01-18 04:11:31,075 - AI_Employee - INFO - ℹ️ Meeting Scheduler running in suggest mode (use skills to review suggestions)
+2026-01-18 04:11:31,075 - AI_Employee - INFO - 
+2026-01-18 04:11:31,075 - AI_Employee - INFO - System Status:
+2026-01-18 04:11:31,075 - AI_Employee - INFO -   Watchers: 0 active
+2026-01-18 04:11:31,075 - AI_Employee - INFO -   Schedulers: 1 active
+2026-01-18 04:11:31,075 - AI_Employee - INFO -   Failure Manager: Active
+2026-01-18 04:11:31,075 - AI_Employee - INFO - 
+2026-01-18 04:13:10,707 - FailureManager - INFO - Failure Manager initialized
+2026-01-18 04:13:10,707 - AI_Employee - INFO - ✓ Failure Manager initialized
+2026-01-18 04:13:10,718 - LinkedInScheduler - INFO - LinkedIn Scheduler initialized
+2026-01-18 04:13:10,718 - LinkedInScheduler - INFO - Schedule: Mondays at 09:00
+2026-01-18 04:13:10,718 - AI_Employee - INFO - ✓ LinkedIn scheduler initialized (posts on Mondays 9AM)
+2026-01-18 04:13:10,718 - AI_Employee - INFO - 
+2026-01-18 04:13:10,719 - AI_Employee - INFO - ╔════════════════════════════════════════════════════════════╗
+2026-01-18 04:13:10,719 - AI_Employee - INFO - ║           ✨ AI Employee System Started                     ║
+2026-01-18 04:13:10,719 - AI_Employee - INFO - ╚════════════════════════════════════════════════════════════╝
+2026-01-18 04:13:10,719 - AI_Employee - INFO - 
+2026-01-18 04:13:10,720 - AI_Employee - INFO -   📁 Vault: C:\Users\mypc\Documents\Ai Personal Employee\hackathon_0\AI_Employee_Vault
+2026-01-18 04:13:10,720 - AI_Employee - INFO -   👀 Watchers: None
+2026-01-18 04:13:10,720 - AI_Employee - INFO -   ⏰ Schedulers: LinkedInScheduler
+2026-01-18 04:13:10,720 - AI_Employee - INFO -   🔧 MCPs: None
+2026-01-18 04:13:10,721 - AI_Employee - INFO - 
+2026-01-18 04:13:10,721 - AI_Employee - INFO - ============================================================
+2026-01-18 04:13:10,721 - AI_Employee - INFO - Starting AI Employee System (Single Pass)
+2026-01-18 04:13:10,721 - AI_Employee - INFO - ============================================================
+2026-01-18 04:13:10,722 - AI_Employee - INFO - ============================================================
+2026-01-18 04:13:10,722 - AI_Employee - INFO - Single pass completed (0 items processed)
+2026-01-18 04:15:30,273 - FailureManager - INFO - Failure Manager initialized
+2026-01-18 04:15:30,274 - AI_Employee - INFO - ✓ Failure Manager initialized
+2026-01-18 04:15:30,282 - LinkedInScheduler - INFO - LinkedIn Scheduler initialized
+2026-01-18 04:15:30,282 - LinkedInScheduler - INFO - Schedule: Mondays at 09:00
+2026-01-18 04:15:30,283 - AI_Employee - INFO - ✓ LinkedIn scheduler initialized (posts on Mondays 9AM)
+2026-01-18 04:15:30,283 - AI_Employee - INFO - 
+2026-01-18 04:15:30,283 - AI_Employee - INFO - ╔════════════════════════════════════════════════════════════╗
+2026-01-18 04:15:30,284 - AI_Employee - INFO - ║           ✨ AI Employee System Started                     ║
+2026-01-18 04:15:30,284 - AI_Employee - INFO - ╚════════════════════════════════════════════════════════════╝
+2026-01-18 04:15:30,285 - AI_Employee - INFO - 
+2026-01-18 04:15:30,285 - AI_Employee - INFO -   📁 Vault: C:\Users\mypc\Documents\Ai Personal Employee\hackathon_0\AI_Employee_Vault
+2026-01-18 04:15:30,285 - AI_Employee - INFO -   👀 Watchers: None
+2026-01-18 04:15:30,286 - AI_Employee - INFO -   ⏰ Schedulers: LinkedInScheduler
+2026-01-18 04:15:30,286 - AI_Employee - INFO -   🔧 MCPs: None
+2026-01-18 04:15:30,286 - AI_Employee - INFO - 
+2026-01-18 04:15:30,287 - AI_Employee - INFO - ============================================================
+2026-01-18 04:15:30,287 - AI_Employee - INFO - Starting AI Employee System (Single Pass)
+2026-01-18 04:15:30,287 - AI_Employee - INFO - ============================================================
+2026-01-18 04:15:30,288 - AI_Employee - INFO - Running email planner...
+2026-01-18 04:15:30,397 - EmailSender - WARNING - No valid Gmail credentials found and no OAuth config in .env
+2026-01-18 04:15:30,397 - EmailSender - INFO - Please add GMAIL_CLIENT_ID and GMAIL_CLIENT_SECRET to .env file
+2026-01-18 04:15:30,404 - EmailPlanner - INFO - EmailPlanner initialized (AI: True)
+2026-01-18 04:15:30,408 - EmailPlanner - INFO - Found 1 emails to process
+2026-01-18 04:15:30,449 - EmailPlanner - ERROR - Error processing EMAIL_test_contract.md: 'KeywordAnalysis' object has no attribute 'conversation_context'
+2026-01-18 04:15:30,451 - AI_Employee - INFO - ✓ Created 1 email plans
+2026-01-18 04:15:30,452 - AI_Employee - INFO - ============================================================
+2026-01-18 04:15:30,452 - AI_Employee - INFO - Single pass completed (0 items processed)
+2026-01-18 04:16:37,431 - FailureManager - INFO - Failure Manager initialized
+2026-01-18 04:16:37,432 - AI_Employee - INFO - ✓ Failure Manager initialized
+2026-01-18 04:16:37,433 - AI_Employee - INFO - 
+2026-01-18 04:16:37,433 - AI_Employee - INFO - ╔════════════════════════════════════════════════════════════╗
+2026-01-18 04:16:37,434 - AI_Employee - INFO - ║           ✨ AI Employee System Started                     ║
+2026-01-18 04:16:37,434 - AI_Employee - INFO - ╚════════════════════════════════════════════════════════════╝
+2026-01-18 04:16:37,434 - AI_Employee - INFO - 
+2026-01-18 04:16:37,435 - AI_Employee - INFO -   📁 Vault: C:\Users\mypc\Documents\Ai Personal Employee\hackathon_0\AI_Employee_Vault
+2026-01-18 04:16:37,435 - AI_Employee - INFO -   👀 Watchers: None
+2026-01-18 04:16:37,436 - AI_Employee - INFO -   ⏰ Schedulers: None
+2026-01-18 04:16:37,436 - AI_Employee - INFO -   🔧 MCPs: None
+2026-01-18 04:16:37,436 - AI_Employee - INFO - 
+2026-01-18 04:16:37,436 - AI_Employee - INFO - ============================================================
+2026-01-18 04:16:37,437 - AI_Employee - INFO - Starting AI Employee System (Single Pass)
+2026-01-18 04:16:37,437 - AI_Employee - INFO - ============================================================
+2026-01-18 04:16:37,437 - AI_Employee - INFO - ============================================================
+2026-01-18 04:16:37,437 - AI_Employee - INFO - Single pass completed (0 items processed)
+2026-01-18 14:24:03,310 - FailureManager - INFO - Failure Manager initialized
+2026-01-18 14:24:03,310 - AI_Employee - INFO - ✓ Failure Manager initialized
+2026-01-18 14:24:03,318 - LinkedInScheduler - INFO - LinkedIn Scheduler initialized
+2026-01-18 14:24:03,318 - LinkedInScheduler - INFO - Schedule: Mondays at 09:00
+2026-01-18 14:24:03,318 - AI_Employee - INFO - ✓ LinkedIn scheduler initialized (posts on Mondays 9AM)
+2026-01-18 14:24:03,318 - AI_Employee - INFO - 
+2026-01-18 14:24:03,318 - AI_Employee - INFO - ╔════════════════════════════════════════════════════════════╗
+2026-01-18 14:24:03,318 - AI_Employee - INFO - ║           ✨ AI Employee System Started                     ║
+2026-01-18 14:24:03,318 - AI_Employee - INFO - ╚════════════════════════════════════════════════════════════╝
+2026-01-18 14:24:03,318 - AI_Employee - INFO - 
+2026-01-18 14:24:03,318 - AI_Employee - INFO -   📁 Vault: C:\Users\mypc\Documents\Ai Personal Employee\hackathon_0\AI_Employee_Vault
+2026-01-18 14:24:03,318 - AI_Employee - INFO -   👀 Watchers: None
+2026-01-18 14:24:03,318 - AI_Employee - INFO -   ⏰ Schedulers: LinkedInScheduler
+2026-01-18 14:24:03,318 - AI_Employee - INFO -   🔧 MCPs: None
+2026-01-18 14:24:03,318 - AI_Employee - INFO - 
+2026-01-18 14:24:03,318 - AI_Employee - INFO - ============================================================
+2026-01-18 14:24:03,318 - AI_Employee - INFO - Starting AI Employee System (Continuous Mode)
+2026-01-18 14:24:03,318 - AI_Employee - INFO - ============================================================
+2026-01-18 14:24:03,318 - AI_Employee - INFO - Press Ctrl+C to stop
+2026-01-18 14:24:03,318 - FailureManager - INFO - Health monitoring started (interval: 30s)
+2026-01-18 14:24:03,318 - LinkedInScheduler - INFO - Scheduler loop started
+2026-01-18 14:24:03,318 - LinkedInScheduler - INFO - LinkedIn scheduler started (posts every Mondays at 09:00)
+2026-01-18 14:24:03,318 - AI_Employee - INFO - ▶ Started LinkedInScheduler
+2026-01-18 14:24:03,318 - AI_Employee - INFO - 
+2026-01-18 14:24:03,318 - AI_Employee - INFO - System Status:
+2026-01-18 14:24:03,318 - AI_Employee - INFO -   Watchers: 0 active
+2026-01-18 14:24:03,318 - AI_Employee - INFO -   Schedulers: 1 active
+2026-01-18 14:24:03,318 - AI_Employee - INFO -   Failure Manager: Active
+2026-01-18 14:24:03,318 - AI_Employee - INFO - 
+2026-01-18 14:24:48,228 - FailureManager - INFO - Failure Manager initialized
+2026-01-18 14:24:48,228 - AI_Employee - INFO - ✓ Failure Manager initialized
+2026-01-18 14:24:48,248 - AI_Employee - INFO - ✓ Database MCP initialized (C:\Users\mypc\Documents\Ai Personal Employee\hackathon_0\AI_Employee_Vault\ai_employee.db)
+2026-01-18 14:24:48,302 - EmailSender - WARNING - No valid Gmail credentials found and no OAuth config in .env
+2026-01-18 14:24:48,319 - EmailSender - INFO - Please add GMAIL_CLIENT_ID and GMAIL_CLIENT_SECRET to .env file
+2026-01-18 14:24:48,319 - AI_Employee - ERROR - Could not initialize Gmail watcher: GMAIL_CLIENT_ID and GMAIL_CLIENT_SECRET must be set in .env file
+Get credentials from: https://console.cloud.google.com/apis/credentials
+2026-01-18 14:24:48,326 - LinkedInScheduler - INFO - LinkedIn Scheduler initialized
+2026-01-18 14:24:48,326 - LinkedInScheduler - INFO - Schedule: Mondays at 09:00
+2026-01-18 14:24:48,326 - AI_Employee - INFO - ✓ LinkedIn scheduler initialized (posts on Mondays 9AM)
+2026-01-18 14:24:48,332 - AI_Employee - INFO - 
+2026-01-18 14:24:48,336 - AI_Employee - INFO - ╔════════════════════════════════════════════════════════════╗
+2026-01-18 14:24:48,336 - AI_Employee - INFO - ║           ✨ AI Employee System Started                     ║
+2026-01-18 14:24:48,336 - AI_Employee - INFO - ╚════════════════════════════════════════════════════════════╝
+2026-01-18 14:24:48,336 - AI_Employee - INFO - 
+2026-01-18 14:24:48,336 - AI_Employee - INFO -   📁 Vault: C:\Users\mypc\Documents\Ai Personal Employee\hackathon_0\AI_Employee_Vault
+2026-01-18 14:24:48,336 - AI_Employee - INFO -   👀 Watchers: None
+2026-01-18 14:24:48,336 - AI_Employee - INFO -   ⏰ Schedulers: LinkedInScheduler
+2026-01-18 14:24:48,353 - AI_Employee - INFO -   🔧 MCPs: Database
+2026-01-18 14:24:48,353 - AI_Employee - INFO - 
+2026-01-18 14:24:48,353 - AI_Employee - INFO - ============================================================
+2026-01-18 14:24:48,367 - AI_Employee - INFO - Starting AI Employee System (Continuous Mode)
+2026-01-18 14:24:48,371 - AI_Employee - INFO - ============================================================
+2026-01-18 14:24:48,371 - AI_Employee - INFO - Press Ctrl+C to stop
+2026-01-18 14:24:48,371 - FailureManager - INFO - Health monitoring started (interval: 30s)
+2026-01-18 14:24:48,371 - LinkedInScheduler - INFO - Scheduler loop started
+2026-01-18 14:24:48,371 - LinkedInScheduler - INFO - LinkedIn scheduler started (posts every Mondays at 09:00)
+2026-01-18 14:24:48,371 - AI_Employee - INFO - ▶ Started LinkedInScheduler
+2026-01-18 14:24:48,371 - AI_Employee - INFO - 
+2026-01-18 14:24:48,371 - AI_Employee - INFO - System Status:
+2026-01-18 14:24:48,371 - AI_Employee - INFO -   Watchers: 0 active
+2026-01-18 14:24:48,371 - AI_Employee - INFO -   Schedulers: 1 active
+2026-01-18 14:24:48,371 - AI_Employee - INFO -   Failure Manager: Active
+2026-01-18 14:24:48,385 - AI_Employee - INFO - 
+2026-01-18 14:26:16,603 - FailureManager - INFO - Failure Manager initialized
+2026-01-18 14:26:16,603 - AI_Employee - INFO - ✓ Failure Manager initialized
+2026-01-18 14:26:16,603 - LinkedInScheduler - INFO - LinkedIn Scheduler initialized
+2026-01-18 14:26:16,603 - LinkedInScheduler - INFO - Schedule: Mondays at 09:00
+2026-01-18 14:26:16,603 - AI_Employee - INFO - ✓ LinkedIn scheduler initialized (posts on Mondays 9AM)
+2026-01-18 14:26:16,603 - AI_Employee - INFO - 
+2026-01-18 14:26:16,603 - AI_Employee - INFO - ╔════════════════════════════════════════════════════════════╗
+2026-01-18 14:26:16,603 - AI_Employee - INFO - ║           ✨ AI Employee System Started                     ║
+2026-01-18 14:26:16,603 - AI_Employee - INFO - ╚════════════════════════════════════════════════════════════╝
+2026-01-18 14:26:16,603 - AI_Employee - INFO - 
+2026-01-18 14:26:16,603 - AI_Employee - INFO -   📁 Vault: C:\Users\mypc\Documents\Ai Personal Employee\hackathon_0\AI_Employee_Vault
+2026-01-18 14:26:16,603 - AI_Employee - INFO -   👀 Watchers: None
+2026-01-18 14:26:16,603 - AI_Employee - INFO -   ⏰ Schedulers: LinkedInScheduler
+2026-01-18 14:26:16,603 - AI_Employee - INFO -   🔧 MCPs: None
+2026-01-18 14:26:16,603 - AI_Employee - INFO - 
+2026-01-18 14:26:16,603 - AI_Employee - INFO - ============================================================
+2026-01-18 14:26:16,603 - AI_Employee - INFO - Starting AI Employee System (Single Pass)
+2026-01-18 14:26:16,603 - AI_Employee - INFO - ============================================================
+2026-01-18 14:26:16,603 - AI_Employee - INFO - ============================================================
+2026-01-18 14:26:16,603 - AI_Employee - INFO - Single pass completed (0 items processed)
+2026-01-18 14:26:34,302 - FailureManager - INFO - Failure Manager initialized
+2026-01-18 14:26:34,302 - AI_Employee - INFO - ✓ Failure Manager initialized
+2026-01-18 14:26:34,302 - AI_Employee - INFO - ✓ Database MCP initialized (C:\Users\mypc\Documents\Ai Personal Employee\hackathon_0\AI_Employee_Vault\ai_employee.db)
+2026-01-18 14:26:34,310 - LinkedInScheduler - INFO - LinkedIn Scheduler initialized
+2026-01-18 14:26:34,310 - LinkedInScheduler - INFO - Schedule: Mondays at 09:00
+2026-01-18 14:26:34,310 - AI_Employee - INFO - ✓ LinkedIn scheduler initialized (posts on Mondays 9AM)
+2026-01-18 14:26:34,310 - AI_Employee - INFO - 
+2026-01-18 14:26:34,310 - AI_Employee - INFO - ╔════════════════════════════════════════════════════════════╗
+2026-01-18 14:26:34,310 - AI_Employee - INFO - ║           ✨ AI Employee System Started                     ║
+2026-01-18 14:26:34,310 - AI_Employee - INFO - ╚════════════════════════════════════════════════════════════╝
+2026-01-18 14:26:34,310 - AI_Employee - INFO - 
+2026-01-18 14:26:34,310 - AI_Employee - INFO -   📁 Vault: C:\Users\mypc\Documents\Ai Personal Employee\hackathon_0\AI_Employee_Vault
+2026-01-18 14:26:34,310 - AI_Employee - INFO -   👀 Watchers: None
+2026-01-18 14:26:34,310 - AI_Employee - INFO -   ⏰ Schedulers: LinkedInScheduler
+2026-01-18 14:26:34,310 - AI_Employee - INFO -   🔧 MCPs: Database
+2026-01-18 14:26:34,310 - AI_Employee - INFO - 
+2026-01-18 14:26:34,310 - AI_Employee - INFO - ============================================================
+2026-01-18 14:26:34,310 - AI_Employee - INFO - Starting AI Employee System (Single Pass)
+2026-01-18 14:26:34,310 - AI_Employee - INFO - ============================================================
+2026-01-18 14:26:34,310 - AI_Employee - INFO - ============================================================
+2026-01-18 14:26:34,310 - AI_Employee - INFO - Single pass completed (0 items processed)
+2026-01-18 14:26:40,117 - AI_Employee - INFO - Received signal 2
+2026-01-18 14:26:40,117 - AI_Employee - INFO - 
+2026-01-18 14:26:40,117 - AI_Employee - INFO - Stopping AI Employee System...
+2026-01-18 14:26:40,133 - LinkedInScheduler - INFO - Scheduler loop stopped
+2026-01-18 14:26:40,133 - LinkedInScheduler - INFO - LinkedIn scheduler stopped
+2026-01-18 14:26:40,133 - AI_Employee - INFO - ✓ Stopped LinkedInScheduler
+2026-01-18 14:26:40,133 - FailureManager - INFO - Health monitoring stopped
+2026-01-18 14:26:40,133 - AI_Employee - INFO - ✓ Database MCP closed
+2026-01-18 14:26:40,133 - AI_Employee - INFO - 
+2026-01-18 14:26:40,133 - AI_Employee - INFO - Final Health Report:
+2026-01-18 14:26:40,133 - AI_Employee - INFO - 
+2026-01-18 14:26:40,133 - AI_Employee - INFO - AI Employee System stopped
+2026-01-18 14:26:40,139 - AI_Employee - INFO - ============================================================
+2026-01-18 14:26:40,139 - AI_Employee - INFO - 
+2026-01-18 14:26:40,139 - AI_Employee - INFO - Stopping AI Employee System...
+2026-01-18 14:26:40,139 - LinkedInScheduler - INFO - LinkedIn scheduler stopped
+2026-01-18 14:26:40,139 - AI_Employee - INFO - ✓ Stopped LinkedInScheduler
+2026-01-18 14:26:40,139 - FailureManager - INFO - Health monitoring stopped
+2026-01-18 14:26:40,145 - AI_Employee - INFO - ✓ Database MCP closed
+2026-01-18 14:26:40,145 - AI_Employee - INFO - 
+2026-01-18 14:26:40,146 - AI_Employee - INFO - Final Health Report:
+2026-01-18 14:26:40,146 - AI_Employee - INFO - 
+2026-01-18 14:26:40,146 - AI_Employee - INFO - AI Employee System stopped
+2026-01-18 14:26:40,146 - AI_Employee - INFO - ============================================================
+2026-01-18 14:26:46,624 - FailureManager - INFO - Failure Manager initialized
+2026-01-18 14:26:46,624 - AI_Employee - INFO - ✓ Failure Manager initialized
+2026-01-18 14:26:46,624 - AI_Employee - INFO - ✓ Database MCP initialized (C:\Users\mypc\Documents\Ai Personal Employee\hackathon_0\AI_Employee_Vault\ai_employee.db)
+2026-01-18 14:26:46,624 - LinkedInScheduler - INFO - LinkedIn Scheduler initialized
+2026-01-18 14:26:46,639 - LinkedInScheduler - INFO - Schedule: Mondays at 09:00
+2026-01-18 14:26:46,639 - AI_Employee - INFO - ✓ LinkedIn scheduler initialized (posts on Mondays 9AM)
+2026-01-18 14:26:46,639 - AI_Employee - INFO - 
+2026-01-18 14:26:46,639 - AI_Employee - INFO - ╔════════════════════════════════════════════════════════════╗
+2026-01-18 14:26:46,639 - AI_Employee - INFO - ║           ✨ AI Employee System Started                     ║
+2026-01-18 14:26:46,648 - AI_Employee - INFO - ╚════════════════════════════════════════════════════════════╝
+2026-01-18 14:26:46,648 - AI_Employee - INFO - 
+2026-01-18 14:26:46,648 - AI_Employee - INFO -   📁 Vault: C:\Users\mypc\Documents\Ai Personal Employee\hackathon_0\AI_Employee_Vault
+2026-01-18 14:26:46,648 - AI_Employee - INFO -   👀 Watchers: None
+2026-01-18 14:26:46,648 - AI_Employee - INFO -   ⏰ Schedulers: LinkedInScheduler
+2026-01-18 14:26:46,648 - AI_Employee - INFO -   🔧 MCPs: Database
+2026-01-18 14:26:46,648 - AI_Employee - INFO - 
+2026-01-18 14:26:46,648 - AI_Employee - INFO - ============================================================
+2026-01-18 14:26:46,648 - AI_Employee - INFO - Starting AI Employee System (Single Pass)
+2026-01-18 14:26:46,648 - AI_Employee - INFO - ============================================================
+2026-01-18 14:26:46,656 - AI_Employee - INFO - ============================================================
+2026-01-18 14:26:46,656 - AI_Employee - INFO - Single pass completed (0 items processed)
+2026-01-18 14:27:00,839 - FailureManager - INFO - Failure Manager initialized
+2026-01-18 14:27:00,839 - AI_Employee - INFO - ✓ Failure Manager initialized
+2026-01-18 14:27:00,856 - AI_Employee - INFO - ✓ Database MCP initialized (C:\Users\mypc\Documents\Ai Personal Employee\hackathon_0\AI_Employee_Vault\ai_employee.db)
+2026-01-18 14:27:00,864 - LinkedInScheduler - INFO - LinkedIn Scheduler initialized
+2026-01-18 14:27:00,864 - LinkedInScheduler - INFO - Schedule: Mondays at 09:00
+2026-01-18 14:27:00,872 - AI_Employee - INFO - ✓ LinkedIn scheduler initialized (posts on Mondays 9AM)
+2026-01-18 14:27:00,872 - AI_Employee - INFO - 
+2026-01-18 14:27:00,872 - AI_Employee - INFO - ╔════════════════════════════════════════════════════════════╗
+2026-01-18 14:27:00,872 - AI_Employee - INFO - ║           ✨ AI Employee System Started                     ║
+2026-01-18 14:27:00,880 - AI_Employee - INFO - ╚════════════════════════════════════════════════════════════╝
+2026-01-18 14:27:00,880 - AI_Employee - INFO - 
+2026-01-18 14:27:00,888 - AI_Employee - INFO -   📁 Vault: C:\Users\mypc\Documents\Ai Personal Employee\hackathon_0\AI_Employee_Vault
+2026-01-18 14:27:00,888 - AI_Employee - INFO -   👀 Watchers: None
+2026-01-18 14:27:00,893 - AI_Employee - INFO -   ⏰ Schedulers: LinkedInScheduler
+2026-01-18 14:27:00,893 - AI_Employee - INFO -   🔧 MCPs: Database
+2026-01-18 14:27:00,893 - AI_Employee - INFO - 
+2026-01-18 14:27:00,893 - AI_Employee - INFO - ============================================================
+2026-01-18 14:27:00,893 - AI_Employee - INFO - Starting AI Employee System (Single Pass)
+2026-01-18 14:27:00,893 - AI_Employee - INFO - ============================================================
+2026-01-18 14:27:00,893 - AI_Employee - INFO - ============================================================
+2026-01-18 14:27:00,901 - AI_Employee - INFO - Single pass completed (0 items processed)
+2026-01-18 14:27:04,648 - FailureManager - INFO - Failure Manager initialized
+2026-01-18 14:27:04,648 - AI_Employee - INFO - ✓ Failure Manager initialized
+2026-01-18 14:27:04,648 - AI_Employee - INFO - ✓ Database MCP initialized (C:\Users\mypc\Documents\Ai Personal Employee\hackathon_0\AI_Employee_Vault\ai_employee.db)
+2026-01-18 14:27:04,648 - LinkedInScheduler - INFO - LinkedIn Scheduler initialized
+2026-01-18 14:27:04,648 - LinkedInScheduler - INFO - Schedule: Mondays at 09:00
+2026-01-18 14:27:04,648 - AI_Employee - INFO - ✓ LinkedIn scheduler initialized (posts on Mondays 9AM)
+2026-01-18 14:27:04,648 - AI_Employee - INFO - 
+2026-01-18 14:27:04,664 - AI_Employee - INFO - ╔════════════════════════════════════════════════════════════╗
+2026-01-18 14:27:04,664 - AI_Employee - INFO - ║           ✨ AI Employee System Started                     ║
+2026-01-18 14:27:04,664 - AI_Employee - INFO - ╚════════════════════════════════════════════════════════════╝
+2026-01-18 14:27:04,664 - AI_Employee - INFO - 
+2026-01-18 14:27:04,664 - AI_Employee - INFO -   📁 Vault: C:\Users\mypc\Documents\Ai Personal Employee\hackathon_0\AI_Employee_Vault
+2026-01-18 14:27:04,664 - AI_Employee - INFO -   👀 Watchers: None
+2026-01-18 14:27:04,664 - AI_Employee - INFO -   ⏰ Schedulers: LinkedInScheduler
+2026-01-18 14:27:04,664 - AI_Employee - INFO -   🔧 MCPs: Database
+2026-01-18 14:27:04,664 - AI_Employee - INFO - 
+2026-01-18 14:27:04,664 - AI_Employee - INFO - ============================================================
+2026-01-18 14:27:04,664 - AI_Employee - INFO - Starting AI Employee System (Single Pass)
+2026-01-18 14:27:04,664 - AI_Employee - INFO - ============================================================
+2026-01-18 14:27:04,664 - AI_Employee - INFO - Running email planner...
+2026-01-18 14:27:04,680 - EmailPlanner - INFO - Loaded 0 processed IDs from cache
+2026-01-18 14:27:04,688 - EmailSender - WARNING - No valid Gmail credentials found and no OAuth config in .env
+2026-01-18 14:27:04,688 - EmailSender - INFO - Please add GMAIL_CLIENT_ID and GMAIL_CLIENT_SECRET to .env file
+2026-01-18 14:27:04,688 - EmailPlanner - INFO - EmailPlanner initialized (AI: True)
+2026-01-18 14:27:04,688 - EmailPlanner - INFO - Found 1 emails to process
+2026-01-18 14:27:04,696 - EmailPlanner - ERROR - Error processing EMAIL_test_contract.md: 'KeywordAnalysis' object has no attribute 'conversation_context'
+2026-01-18 14:27:04,704 - AI_Employee - INFO - ✓ Created 1 email plans
+2026-01-18 14:27:04,704 - AI_Employee - INFO - ============================================================
+2026-01-18 14:27:04,704 - AI_Employee - INFO - Single pass completed (0 items processed)
+2026-01-18 14:27:59,901 - FailureManager - INFO - Failure Manager initialized
+2026-01-18 14:27:59,901 - AI_Employee - INFO - ✓ Failure Manager initialized
+2026-01-18 14:27:59,901 - AI_Employee - INFO - ✓ Database MCP initialized (C:\Users\mypc\Documents\Ai Personal Employee\hackathon_0\AI_Employee_Vault\ai_employee.db)
+2026-01-18 14:27:59,901 - LinkedInScheduler - INFO - LinkedIn Scheduler initialized
+2026-01-18 14:27:59,901 - LinkedInScheduler - INFO - Schedule: Mondays at 09:00
+2026-01-18 14:27:59,901 - AI_Employee - INFO - ✓ LinkedIn scheduler initialized (posts on Mondays 9AM)
+2026-01-18 14:27:59,901 - MeetingScheduler - WARNING - Calendar MCP not available: No module named 'skills.mcp_calendar'
+2026-01-18 14:27:59,901 - AI_Employee - INFO - ✓ Meeting scheduler initialized (mode: suggest)
+2026-01-18 14:27:59,901 - AI_Employee - INFO - 
+2026-01-18 14:27:59,901 - AI_Employee - INFO - ╔════════════════════════════════════════════════════════════╗
+2026-01-18 14:27:59,901 - AI_Employee - INFO - ║           ✨ AI Employee System Started                     ║
+2026-01-18 14:27:59,917 - AI_Employee - INFO - ╚════════════════════════════════════════════════════════════╝
+2026-01-18 14:27:59,917 - AI_Employee - INFO - 
+2026-01-18 14:27:59,917 - AI_Employee - INFO -   📁 Vault: C:\Users\mypc\Documents\Ai Personal Employee\hackathon_0\AI_Employee_Vault
+2026-01-18 14:27:59,917 - AI_Employee - INFO -   👀 Watchers: None
+2026-01-18 14:27:59,917 - AI_Employee - INFO -   ⏰ Schedulers: LinkedInScheduler
+2026-01-18 14:27:59,917 - AI_Employee - INFO -   🔧 MCPs: Database, Meeting Scheduler
+2026-01-18 14:27:59,917 - AI_Employee - INFO - 
+2026-01-18 14:27:59,917 - AI_Employee - INFO - ============================================================
+2026-01-18 14:27:59,917 - AI_Employee - INFO - Starting AI Employee System (Single Pass)
+2026-01-18 14:27:59,917 - AI_Employee - INFO - ============================================================
+2026-01-18 14:27:59,917 - AI_Employee - INFO - ============================================================
+2026-01-18 14:27:59,917 - AI_Employee - INFO - Single pass completed (0 items processed)
+2026-01-18 15:12:22,613 - FailureManager - INFO - Failure Manager initialized
+2026-01-18 15:12:22,613 - AI_Employee - INFO - ✓ Failure Manager initialized
+2026-01-18 15:12:22,613 - AI_Employee - INFO - ✓ Database MCP initialized (C:\Users\mypc\Documents\Ai Personal Employee\hackathon_0\AI_Employee_Vault\ai_employee.db)
+2026-01-18 15:12:22,628 - EmailSender - WARNING - Credentials expired. Please run Gmail watcher to re-authenticate.
+2026-01-18 15:12:22,628 - EmailSender - INFO - Or, authenticate now by running: python -c "from Watchers.gmail_watcher import GmailWatcher; GmailWatcher()"
+2026-01-18 15:16:44,523 - FailureManager - INFO - Failure Manager initialized
+2026-01-18 15:16:44,523 - AI_Employee - INFO - ✓ Failure Manager initialized
+2026-01-18 15:16:44,538 - EmailSender - WARNING - Credentials expired. Please run Gmail watcher to re-authenticate.
+2026-01-18 15:16:44,538 - EmailSender - INFO - Or, authenticate now by running: python -c "from Watchers.gmail_watcher import GmailWatcher; GmailWatcher()"
